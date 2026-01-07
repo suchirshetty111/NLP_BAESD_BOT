@@ -1,0 +1,7 @@
+{
+  "name": "Smart Interview Bot",
+  "description": "An intelligent AI-powered mock interview system that evaluates candidate responses, detects emotional tone, and generates detailed performance feedback reports.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
